@@ -8,10 +8,11 @@ header {
     width: 100vw;
     display: flex;
     // justify-content: center;
-    align-items: center;
+    // align-items: center;
     position: fixed;
     top: 0;
     z-index: 999;
+    font-size: 1.3rem;
 }
 
 .main-wrapper {
