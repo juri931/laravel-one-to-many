@@ -39,7 +39,7 @@
             </tr>
         </thead>
         <tbody>
-            @foreach ($types as $type)
+            @foreach ($type as $type)
                 <tr>
                     <td>
                         <form
