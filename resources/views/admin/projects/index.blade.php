@@ -37,6 +37,7 @@
         <thead>
             <tr>
                 <th scope="col">Progetti</th>
+                <th scope="col">Tipologia</th>
                 <th scope="col">Azioni</th>
             </tr>
         </thead>
@@ -52,6 +53,10 @@
                             @method('PUT')
                             <input type="text" value="{{ $project->name }}" name="name">
                         </form>
+                    </td>
+
+                    <td>
+                       _____
                     </td>
 
                     <td class="d-flex gap-1">
