@@ -55,9 +55,7 @@
                         </form>
                     </td>
 
-                    <td>
-                       _____
-                    </td>
+                    <td>{{ $project->type->name }}</td>
 
                     <td class="d-flex gap-1">
                         <button
