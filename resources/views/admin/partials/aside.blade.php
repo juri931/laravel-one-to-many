@@ -14,7 +14,7 @@
                 <a href="{{ route('admin.types.index') }}"><i class="fa-solid fa-tags"></i></i>Types</a>
             </li>
             <li>
-                <a href="{{ route('admin.type_projects') }}"><i class="fa-solid fa-tags"></i></i>Elenco Tipologia/Progetti</a>
+                <a href="{{ route('admin.type_projects') }}"><i class="fa-solid fa-network-wired"></i>Tipologia/Progetti</a>
             </li>
         </ul>
     </nav>
